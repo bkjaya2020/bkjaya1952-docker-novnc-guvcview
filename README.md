@@ -1,7 +1,9 @@
 # bkjaya1952-docker-novnc-guvcview
 # A docker image pre-installed guvcview-Linux based on bkjaya1952/q4wine-x11vnc-novnc-docker
 
-A docker image pre-installed guvcview-inux based on bkjaya1952/q4wine-x11vnc-novnc-docker
+A docker image pre-installed guvcview-inux based on guvcview and bkjaya1952/q4wine-x11vnc-novnc-docker
+
+Refer:- http://guvcview.sourceforge.net/
 
 Usage :-
 
