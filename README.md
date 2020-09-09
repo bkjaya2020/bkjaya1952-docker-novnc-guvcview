@@ -9,7 +9,7 @@ Usage :-
 
 To create a guvcview (name gvw) using bkjaya1952/docker-novnc-guvcview
 
-Refer:- https://hub.docker.com/r/bkjaya1952/docker-guvcview-linux-new
+Refer:- https://hub.docker.com/r/bkjaya1952/docker-novnc-guvcview
 
 On the Ubuntu terminal
 
@@ -25,26 +25,30 @@ At the first run of the docker container , you will have to run the first startu
 
 The it will automatically download wine and install.
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-26-54.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-26-54.png" width="625" height="520">
+For configuring q4wine please refer the following link
+
+https://hub.docker.com/repository/docker/bkjaya1952/q4wine-x11vnc-novnc-docker
 
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-27-41.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-27-41.png" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" width="625" height="520">
 
+Figure:- 1 Press autodetect button to include drive Z: during configuring q4wine
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-28-27.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-28-27.png" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-06-08.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-06-08.png" width="625" height="520">
 
+Figure:- 2 Right click on wine desktop to add new icon for guvcview 
 
-If you want to get the novnc desktop with q4wine after closing it, please follow the following steps
+<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-09-11.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-09-11.png" width="625" height="520">
 
-On the desktop, right click the mouse to get the fluxbox menu
+Figure:- 3 Fill the box as shown in the figure to connect guvcview starter at /usr/bin/guvcview in the drive Z:
 
 <img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/menu1.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/menu1.png" width="625" height="520">
 
-To get the ivms4200 desktop with q4wine panel
+Figure :- 4 guvcview USB camera stream 
 
-On the menu go to sub menus and ckick Applications>Shells>Bash
+<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" width="625" height="520">
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux-new/master/Screenshot%20from%202020-03-01%2016-53-49.png" alt="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux-new/master/Screenshot%20from%202020-03-01%2016-53-49.png" width="625" height="520">
+Figure :- 4 guvcview USB camera stream 
 
 
 How to change the timezone
