@@ -44,7 +44,7 @@ Figure:- 3 Fill the box as shown in the figure to connect guvcview starter at /u
 
 <img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" width="625" height="520">
 
-Figure :- 4 guvcview USB camera stream 
+Figure :- 4 guvcview USB camera stream at http://localhost:8008/vnc_lite.html
 
 
 
