@@ -13,7 +13,7 @@ Refer:- https://hub.docker.com/r/bkjaya1952/docker-guvcview-linux-new
 
 On the Ubuntu terminal
 
-<code>sudo docker create -t -p 8008:8085 --name gvw --privileged=true bkjaya1952/docker-novnc-guvcview</code>
+<code>sudo docker create -t -p 8008:8080 --name gvw --privileged=true bkjaya1952/docker-novnc-guvcview</code>
 
 <code>sudo docker start gvw</code>
 
