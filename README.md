@@ -27,7 +27,7 @@ The it will automatically download wine and install.
 
 For configuring q4wine please refer the following link
 
-https://hub.docker.com/repository/docker/bkjaya1952/q4wine-x11vnc-novnc-docker
+https://hub.docker.com/r/bkjaya1952/q4wine-x11vnc-novnc-docker
 
 
 <img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" width="625" height="520">
