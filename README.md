@@ -42,13 +42,10 @@ Figure:- 2 Right click on wine desktop to add new icon for guvcview
 
 Figure:- 3 Fill the box as shown in the figure to connect guvcview starter at /usr/bin/guvcview in the drive Z:
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/menu1.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/menu1.png" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" width="625" height="520">
 
 Figure :- 4 guvcview USB camera stream 
 
-<img src="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-05-37.png" alt="https://raw.githubusercontent.com/bkjaya2020/bkjaya1952-docker-novnc-guvcview/master/Screenshot%20from%202020-09-09%2017-10-46.png" width="625" height="520">
-
-Figure :- 4 guvcview USB camera stream 
 
 
 How to change the timezone
